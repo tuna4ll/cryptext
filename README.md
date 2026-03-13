@@ -2,6 +2,8 @@ Cryptext Advanced Security Suite
 
 simple encryption tool. works as a single exe file. no install needed.
 
+<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/b157501f-83dd-485c-b9aa-71bef1cf69e4" />
+
 what it does
 you put a secret message inside an encrypted exe file and send that file to someone. when they run it and enter the correct password the real message appears.
 
