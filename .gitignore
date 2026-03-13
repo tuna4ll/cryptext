@@ -1,0 +1,4 @@
+*.exe
+*.o
+*.obj
+stub_data.h
